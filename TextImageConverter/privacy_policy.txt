@@ -1,2 +1,2 @@
-TextImageConverter accesses your local folders only to save images.
+TextImageConverter accesses local device folders only to save images.
 TextImageConverter does not collect any user data.

@@ -1,10 +1,2 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>TextImageConverter privacy policy</title>
-    </head>
-    <body>
-        TextImageConverter accesses your local folders only to save images.
-        TextImageConverter does not collect any user data.
-    </body>
-</html>
+TextImageConverter accesses your local folders only to save images.
+TextImageConverter does not collect any user data.
